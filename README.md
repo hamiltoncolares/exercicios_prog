@@ -185,4 +185,3 @@ _[Clique aqui para acessar a lista de questões.](URI/1%20-%20Iniciante/0%20-%20
 ## Outras listas de exercícios
 
 * [Python Brasil](https://wiki.python.org.br/ListaDeExercicios)
-teste
