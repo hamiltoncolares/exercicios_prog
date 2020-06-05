@@ -19,7 +19,7 @@
 
 Esse repositório foi criado com o objetivo de centralizar todos as questões de programação que eu estou estudando - e programando - no momento. Atualmente, o objetivo do repositório também foi expandido para contemplar questões de Maratonas de Programação. Estou participando de um curso de Programação Competitiva e lidamos com questões contextualizadas constantemente. Elas também podem ser encontradas neste repositório. Espero que, de alguma maneira, esse repositório possa colaborar com seus estudos.
 
-## Questões Introdutórias:
+## Questões Introdutórias
 
 ### 1. Sequenciais
 
@@ -50,9 +50,10 @@ Esse repositório foi criado com o objetivo de centralizar todos as questões de
 10 - Faça um programa que peça a temperatura em graus Celsius, transforme e mostre em graus Farenheit.
 
 11 - Faça um programa que peça 2 números inteiros e um número real. Calcule e mostre:
-  - o produto do dobro do primeiro com metade do segundo
-  - a soma do triplo do primeiro com o terceiro
-  - o terceiro elevado ao cubo
+
+* o produto do dobro do primeiro com metade do segundo
+* a soma do triplo do primeiro com o terceiro
+* o terceiro elevado ao cubo
 
 12 - Tendo como dados de entrada a altura de uma pessoa, construa um algoritmo que calcule seu peso ideal, usando a seguinte fórmula: (72.7 * altura) - 58.
 
@@ -154,7 +155,7 @@ determine a matriz D resultante da operação A + B – C.
 
 5 - Escreva uma função recursiva que realize a operação de exponenciação.
 
-## Problemas contextualizados:
+## Problemas contextualizados
 
 Os problemas a seguir são retirados dos seguintes sites:
 
