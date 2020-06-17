@@ -36,10 +36,13 @@ Esse repositório foi criado com o objetivo de centralizar todos as questões de
 [Dart](01%20-%20Sequenciais/sequenciais_3.dart)
 
 4 - Faça um programa que peça as 4 notas bimestrais e mostre a média.
+[Dart](01%20-%20Sequenciais/sequenciais_4.dart)
 
 5 - Faça um programa que converta metros para centímetros
+[Dart](01%20-%20Sequenciais/sequenciais_5.dart)
 
 6 - Faça um programa que peça o raio de um círculo, calcule e mostre sua área.
+[Dart](01%20-%20Sequenciais/sequenciais_6.dart)
 
 7 - Faça um programa que calcule a área de um quadrado, em seguida mostre o dobro desta área para o usuário.
 
