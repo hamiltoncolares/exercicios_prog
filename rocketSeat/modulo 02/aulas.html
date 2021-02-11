@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Curso Javascript módulo 02</title>
+  </head>
+  <body>
+      <div id='aula01'>
+        <h1>Aula 01</h1>
+        <button onmouseover="mostraAlerta()">Me pressione</button>
+        <input onkeypress="mostraAlerta()"/>
+      </div>
+      <script>
+          function mostraAlerta() {
+              alert('Botão foi clicado!!');
+          }
+      </script>
+
+      <div id='aula02'>
+        <h1>Aula 02</h1>
+        <input type="text" name="nome" id="nome" />
+        <button class="botao">Adicionar</button>
+      </div>
+      <script>
+          var inputElement = document.getElementById('nome');
+          console.log(inputElement);
+      </script>
+
+      <div id="aula03">
+        <h1>Aula 03</h1>
+
+      </div>
+      <script>
+        var linkElement = document.createElement('a');
+        linkElement.setAttribute('href', 'https://rocketseat.com.br/');
+        linkElement.setAttribute('title', 'Site da Rocketseat!!');
+
+        var textElement = document.createTextNode('Acessar site da Rocketseat');
+        linkElement.appendChild(textElement);
+
+        var containerElement = document.querySelector('#aula03');
+        containerElement.appendChild(linkElement);
+      </script>
+
+      <div id="aula04">
+        <h1>Aula 04</h1>
+        <div class="box">
+          <div class="box" id="boxinterno"></div>
+        </div>
+      </div>
+      <script>
+        var boxElement = document.querySelector('.box');
+        var boxElementInterno = document.getElementById('boxinterno');
+
+        // box externo, somente para ajudar a visualização do neomorphism
+        boxElement.style.width = '400px';
+        boxElement.style.height = '400px';
+        boxElement.style.backgroundColor = '#f00000';
+        boxElement.style.margin = '0 auto';
+
+        // box interno com as configs de neomeorphism e centralização do box
+        boxElementInterno.style.width = '200px';
+        boxElementInterno.style.height = '200px';
+        boxElementInterno.style.backgroundColor = '#f00000';
+        boxElementInterno.style.borderRadius = '50px';
+        boxElementInterno.style.boxShadow = '14px 14px 28px #cc0000, -14px -14px 28px #ff0000';
+        boxElementInterno.style.position = 'absolute';
+        boxElementInterno.style.top = '50%';
+        boxElementInterno.style.left = '50%';
+        boxElementInterno.style.margin = '0 0 0 -100px';
+      </script>
+  </body>
+</html>

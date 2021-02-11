@@ -26,14 +26,17 @@ Esse repositório foi criado com o objetivo de centralizar todos as questões de
 1 - Faça um programa que mostre a mensagem "Alo mundo" na tela.
 
 [Dart](01%20-%20Sequenciais/sequenciais_1.dart)
+[Javascript](01%20-%20Sequenciais/sequenciais_1.js)
 
 2 - Faça um programa que peça um número e então mostre a mensagem: "O número informado foi {numero}."
 
 [Dart](01%20-%20Sequenciais/sequenciais_2.dart)
+[Javascript](01%20-%20Sequenciais/sequenciais_2.js)
 
 3 - Faça um programa que peça dois números e imprima a soma.
 
 [Dart](01%20-%20Sequenciais/sequenciais_3.dart)
+[Javascript](01%20-%20Sequenciais/sequenciais_3.js)
 
 4 - Faça um programa que peça as 4 notas bimestrais e mostre a média.
 [Dart](01%20-%20Sequenciais/sequenciais_4.dart)
@@ -45,18 +48,23 @@ Esse repositório foi criado com o objetivo de centralizar todos as questões de
 [Dart](01%20-%20Sequenciais/sequenciais_6.dart)
 
 7 - Faça um programa que calcule a área de um quadrado, em seguida mostre o dobro desta área para o usuário.
+[Dart](01%20-%20Sequenciais/sequenciais_7.dart)
 
 8 - Faça um programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e mostre o total do seu salário no referido mês.
+[Dart](01%20-%20Sequenciais/sequenciais_8.dart)
 
 9 - Faça um programa que peça a temperatura em graus Farenheit, transforme e mostre a temperatura em graus Celsius. C = (5 * (F-32) / 9)
+[Dart](01%20-%20Sequenciais/sequenciais_9.dart)
 
 10 - Faça um programa que peça a temperatura em graus Celsius, transforme e mostre em graus Farenheit.
+[Dart](01%20-%20Sequenciais/sequenciais_10.dart)
 
 11 - Faça um programa que peça 2 números inteiros e um número real. Calcule e mostre:
 
 * o produto do dobro do primeiro com metade do segundo
 * a soma do triplo do primeiro com o terceiro
 * o terceiro elevado ao cubo
+[Dart](01%20-%20Sequenciais/sequenciais_11.dart)
 
 12 - Tendo como dados de entrada a altura de uma pessoa, construa um algoritmo que calcule seu peso ideal, usando a seguinte fórmula: (72.7 * altura) - 58.
 
@@ -188,3 +196,4 @@ _[Clique aqui para acessar a lista de questões.](URI/1%20-%20Iniciante/0%20-%20
 ## Outras listas de exercícios
 
 * [Python Brasil](https://wiki.python.org.br/ListaDeExercicios)
+* [Rocket Seat - Starter - Curso JavaScript - Módulo 01](https://xesque.rocketseat.dev/platform/1566498717618.pdf)

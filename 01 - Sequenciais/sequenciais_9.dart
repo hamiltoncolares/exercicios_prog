@@ -4,7 +4,7 @@ import 'dart:io';
 main(){
   stdout.write("Informe uma temperatura em Farenheit que vamos convertê-la para Celcius: ");
   double far = double.parse(stdin.readLineSync());
-  String cel = (5 * (far - 32) / 9).toStringAsFixed(2);
+  double cel = (5 * (far - 32) / 9);
 
-  print("Sua temperatura e Celcius é $cel" + "º");
+  print("Sua temperatura e Celcius é ${cel.toStringAsFixed(2)}\º");
 }
